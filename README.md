@@ -2,7 +2,6 @@ TÊN ĐỀ TÀI: DIFFERENTIAL PRIVACY IN DEEP LEARNING
 ---------------------------------------------------------------------
 Sinh viên thực hiện:
 - Lê Minh Trí - 20133100
-- Huỳnh Nguyễn Như Nguyên - 20133019
 ---------------------------------------------------------------------
 Mục tiêu: Nghiên cứu và thực nghiệm quá trình ứng dụng Differential privacy vào trong mô hình học sâu.
 ---------------------------------------------------------------------
